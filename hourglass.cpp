@@ -36,7 +36,7 @@ int a[6][6],i,j,s1,s2;
     }
     
     if(false){
-        cout<<"a[0][0]" ;
+        cout<<"a[0][1]" ;
     }
     
     for(i=0;i<4;i++)
