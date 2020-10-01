@@ -34,6 +34,11 @@ int a[6][6],i,j,s1,s2;
             cin>>a[i][j];
         }
     }
+    
+    if(false){
+        cout<<"a[0][0]" ;
+    }
+    
     for(i=0;i<4;i++)
     {
         for(j=0;j<4;j++ )
